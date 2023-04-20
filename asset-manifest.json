@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b857162.css",
+    "main.js": "/static/js/main.0b78925c.js",
+    "static/media/small-biz.png": "/static/media/small-biz.ded106014be3413ac197.png",
+    "static/media/sudoku.png": "/static/media/sudoku.0d5adb1559ac0adde9be.png",
+    "static/media/blackjack-chart.webp": "/static/media/blackjack-chart.9869344b5336b4e42d17.webp",
+    "static/media/SudokuSolver-Complete.png": "/static/media/SudokuSolver-Complete.bd2f36770b0912103c1c.png",
+    "static/media/ChartSim.png": "/static/media/ChartSim.577d36bcc025e85c649c.png",
+    "static/media/NoBustSim.png": "/static/media/NoBustSim.82dff05d654dfc0b88dc.png",
+    "static/media/Dealer17Sim.png": "/static/media/Dealer17Sim.5644bf586387281a720b.png",
+    "static/media/SudokuSolver-AutoSolve.png": "/static/media/SudokuSolver-AutoSolve.4a94857b2a804c166871.png",
+    "static/media/nfl-league-logo.png": "/static/media/nfl-league-logo.e0d2a4b463ab1320d265.png",
+    "static/media/SudokuSolver-CheckAnswers.png": "/static/media/SudokuSolver-CheckAnswers.f8d4a00b03fcf35aa699.png",
+    "static/media/SudokuSolver-UserEntry.png": "/static/media/SudokuSolver-UserEntry.4572f0676f2a7ebb58fb.png",
+    "static/media/SudokuSolver-NewGame.png": "/static/media/SudokuSolver-NewGame.93fa29716c1af1b36394.png",
+    "static/media/blackjack-logo.png": "/static/media/blackjack-logo.e12f54626a5fdcc322ae.png",
+    "static/media/default-project.png": "/static/media/default-project.a9b8b9a04e25b44f76a1.png",
+    "index.html": "/index.html",
+    "main.0b857162.css.map": "/static/css/main.0b857162.css.map",
+    "main.0b78925c.js.map": "/static/js/main.0b78925c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b857162.css",
+    "static/js/main.0b78925c.js"
+  ]
+}
