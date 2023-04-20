@@ -44,9 +44,18 @@ const projectData: ProjectDataType[] = [
         keywords: ["SQL", "Python", "QT", "MatPlotLib", "ProblemSolving", "CriticalThinking", "ConflictResolution", "ActiveCommunication", "TimeManagement", "SelfMotivated", "Leadership"],
         date: new Date(2020, 3, 9),
         content: [
-          ['P', "Body"],
-          ['P', "Body"],
-          ['T', "Title"],
+          ['P', "I worked directly with a small local landscaping company in the role of both a consultant and developer, in which I provided a complete and thorough review of the business and designed quick, easy and streamlined technical solutions."],
+          ['T', "Major Concerns"],
+          ['P', "Struggling to keep track of inventory"],
+          ['P', "Trouble scheduling work crews and equipment between jobs"],
+          ['P', "Unexpected bad weather can ruin planned work schedules"],
+          ['T', "Solutions"],
+          ['P', "I addressed these problems by creating a simple PyQT application to ruin on the main stores PC with a SQL database connection. Each employee has an Username and password that allows them to access certain features within the application."],
+          ['P', "Within the application I have a quick searchable table of Staff, Customers and Suppliers with basic notes and contact information, allowing the business to store and easily access this information quickly."],
+          ['P', "There is also a scheduling tool that allows you to create jobs by filling in time estimates as well as staff and equipment needed. Once a job is created you can place it on a calendar view schedule in which it will automatically check for any equipment or staff overlap, allowing you to quickly schedule out jobs hour by hour. This feature also includes views that allow to be seen unused staff and equipment for a given time. "],
+          ['P', "Finally we had an inventory system built in to the application, which upon entering a bill of landing populates the database with inventory, upon entering a job or individual sale into the system the inventory is removed from the system and the appropriate documents are automatically generated. For an individual sale a recipe is generated while for a job a quote, final statement and a needs list (for the crew so they know what to load on the truck) is all automatically generated."],
+          ['T', "Results"],
+          ['P', "Overall once development was complete I worked with the staff to directly install the application on their machine and then spent a few days working with the staff directly to ensure they fully understood the application and how to use it. The application and work received great reviews and really helped the company in many different aspects of the management. All of managements concerns were met along with some additional concerns that were first discovered through talking with staff."],
         ]
     },
     {

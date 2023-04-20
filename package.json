@@ -2,9 +2,12 @@
   "name": "jed-codes-portfolio",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://jedcodes.dev/",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -43,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "sass": "^1.57.1"
   }
 }
